@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chichen_itza3" size="15.000000 15.000000" />
+    <ImageTarget name="chichen_itza2" size="15.000000 8.437500" />
+    <ImageTarget name="chichen_itza1" size="15.000000 7.987013" />
+    <ImageTarget name="collosseum2" size="15.000000 9.981818" />
+    <ImageTarget name="collosseum1" size="15.000000 10.512500" />
+  </Tracking>
+</QCARConfig>

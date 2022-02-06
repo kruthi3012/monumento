@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="second_bb" size="5.000000 7.500000" />
+    <ImageTarget name="first_bb" size="5.000000 9.970834" />
+    <ImageTarget name="third_bb" size="5.000000 7.985289" />
+    <ImageTarget name="third_eiffel" size="5.000000 9.250000" />
+    <ImageTarget name="second_eiffel" size="5.000000 6.936394" />
+    <ImageTarget name="first_eiffel" size="5.000000 7.500564" />
+    <ImageTarget name="third_taj" size="5.000000 3.348485" />
+    <ImageTarget name="second_taj" size="5.000000 4.359375" />
+    <ImageTarget name="first_taj" size="5.000000 2.812813" />
+  </Tracking>
+</QCARConfig>
