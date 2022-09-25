@@ -7,4 +7,6 @@ Simple AR app that brings life into some famous landmarks across the world throu
 
 ✨The below link contains other resources used in this project.
 
+📽️Find the demo video in the link below.
+
 https://drive.google.com/drive/folders/1qygoTbyJXzd0EIE_xyQcJeJkE8gP_uWW?usp=sharing
